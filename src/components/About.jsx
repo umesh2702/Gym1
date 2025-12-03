@@ -25,7 +25,7 @@ export default function About() {
     <section id="about" className="section section-dark">
       <div className="container">
         <h2 className="section-title">
-          About <span>Elite Gym</span>
+          About <span>Name Gym</span>
         </h2>
         <p className="section-subtitle">
           We are more than just a gym. We&apos;re a community dedicated to helping

@@ -26,7 +26,7 @@ export default function Navbar() {
       <div className="nav-inner">
         <div className="nav-logo-wrap" onClick={() => scrollToSection("home")}>
           <div className="nav-logo-text">
-            <span className="nav-logo-highlight">ELITE</span>
+            <span className="nav-logo-highlight">Name</span>
             <span>GYM</span>
           </div>
         </div>
